@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP1/E1/E1.iml" filepath="$PROJECT_DIR$/TP1/E1/E1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E10/E10.iml" filepath="$PROJECT_DIR$/TP1/E10/E10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E11/E11.iml" filepath="$PROJECT_DIR$/TP1/E11/E11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E12/E12.iml" filepath="$PROJECT_DIR$/TP1/E12/E12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E13/E13.iml" filepath="$PROJECT_DIR$/TP1/E13/E13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E14/E14.iml" filepath="$PROJECT_DIR$/TP1/E14/E14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E6/E15.iml" filepath="$PROJECT_DIR$/TP1/E6/E15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2/E2/E16.iml" filepath="$PROJECT_DIR$/TP2/E2/E16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2/E1/E17.iml" filepath="$PROJECT_DIR$/TP2/E1/E17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E2/E2.iml" filepath="$PROJECT_DIR$/TP1/E2/E2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E3/E3.iml" filepath="$PROJECT_DIR$/TP1/E3/E3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E4/E4.iml" filepath="$PROJECT_DIR$/TP1/E4/E4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E5/E5.iml" filepath="$PROJECT_DIR$/TP1/E5/E5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP2/E3/E6.iml" filepath="$PROJECT_DIR$/TP2/E3/E6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E7/E7.iml" filepath="$PROJECT_DIR$/TP1/E7/E7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E8/E8.iml" filepath="$PROJECT_DIR$/TP1/E8/E8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1/E9/E9.iml" filepath="$PROJECT_DIR$/TP1/E9/E9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Guía de ejercicios.iml" filepath="$PROJECT_DIR$/.idea/Guía de ejercicios.iml" />
+    </modules>
+  </component>
+</project>
